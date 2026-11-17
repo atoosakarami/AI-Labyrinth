@@ -5,3 +5,5 @@
 *.sln.DotSettings.user
 .env
 export_presets.cfg
+tests/AuthTests/bin/
+tests/AuthTests/obj/
